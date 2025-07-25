@@ -70,7 +70,7 @@ module.exports = {
 	READ_MESSAGES: toBool(process.env.READ_MESSAGES || "false"),
 	REJECT_CALL: toBool(process.env.REJECT_CALL || "false"),
 	REJECT_CALL_MSG: process.env.REJECT_CALL_MSG || "_Calls are not allowed. Please don’t call again!._",
-	SESSION_ID: process.env.SESSION_ID || "",
+	SESSION_ID: process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:e8480447eb35d22a5434bf17bc254ff5",
 	START_MSG: toBool(process.env.START_MSG || "true"),
 	STICKER_DATA: process.env.STICKER_DATA || `X-BOT",𝐑͢ᴏʏ݉ᴀʟ͎ 𝐒͢ᴇ݉ʀ͎`,
 	SUDO: process.env.SUDO || "918075298454",
