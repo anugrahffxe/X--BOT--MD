@@ -82,9 +82,7 @@
 <summary>Read More</summary>
 
 <br>
-Beta testers
+Beta tester & Debug
 
-
-
-* [`RUSH MASTER`](https://github.com/RUSH-MASTER)
+* [`THEJUS`](https://github.com/jarviss4334)
  </details>
