@@ -53,6 +53,7 @@ module.exports = {
 	DATABASE_URL,
 	DATABASE,
 	DISABLE_PM: toBool(process.env.DISABLE_PM || "false"),
+	GROQ_API_KEY: process.env.GROQ_API_KEY || "",
 	HANDLERS: (process.env.HANDLERS || process.env.HANDLER || process.env.PREFIX || ".").trim(),
 	HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
 	HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
